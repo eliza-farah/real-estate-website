@@ -1,12 +1,41 @@
-# React + Vite
+# 🏡 RealEstateHub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive real estate website built with **React** and **Tailwind CSS**. This project showcases a clean UI with featured property listings, hero sections, and CTA areas designed for property buyers and sellers.
 
-Currently, two official plugins are available:
+## 📸 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [View Live Site](https://real-estate-website-theta-wheat.vercel.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- ✨ Modern, responsive design
+- 🖼️ Hero section with call-to-action
+- 🏘️ Property listings with images, prices, and locations
+- 📱 Mobile-friendly layout
+- 💨 Built with Tailwind CSS utility classes
+- ⚛️ Functional components using React
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** 
+- **Tailwind CSS** 
+- **Vite**
+- **Deployed on Vercel** 
+
+---
+
+## ✍️ Author
+
+**[Eliza Farah]**  
+Frontend & Aspiring Full Stack Developer  
+📬 [elizafarah100@gmail.com] | 🌐 [your-portfolio-site.com]
+
+---
+
+## 📜 License
+
+This project is for educational and portfolio use.
